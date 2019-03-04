@@ -16,7 +16,7 @@ class Counter extends Component {
     };
 
     render() {
-        // Fill in the two button onClick methods
+        // Fill in the two button onClick method
         // Upon clicking these buttons, the count
         // should decrement or increment accordingly
         return (
